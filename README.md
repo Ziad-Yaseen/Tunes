@@ -4,7 +4,10 @@ A simple, colorful, and interactive musical application built with Flutter. This
 
 ## 📱 App Preview
 *(You can add your screenshot here by dragging and dropping the image into the GitHub editor)*
-![Flutter Tune App](preview.png)
+![Flutter Tune App]()
+<p align="center">
+  <img src="preview.png" width="22%" alt="Welcome Screen">
+</p>
 
 ## ✨ Features
 * **Interactive UI:** A clean, colorful, and highly responsive user interface.
