@@ -3,7 +3,6 @@
 A simple, colorful, and interactive musical application built with Flutter. This app allows users to play different musical notes by tapping on beautifully designed color-coded cards. 
 
 ## 📱 App Preview
-*(You can add your screenshot here by dragging and dropping the image into the GitHub editor)*
 ![Flutter Tune App]()
 <p align="center">
   <img src="preview.png" width="22%" alt="Welcome Screen">
